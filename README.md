@@ -1,7 +1,7 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h1 align="center">Hi 👋 I'm Ahmed Yasser</h1>
+<h1 align="center"> Ahmed Yasser</h1>
 <h3 align="center">Data Science Student | Machine Learning Enthusiast</h3>
 
 <p align="center">
